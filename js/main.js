@@ -146,7 +146,6 @@ if (sections.length) {
     root.style.setProperty('--vvb', gap + 'px');
   }
   vv.addEventListener('resize', pin, { passive: true });
-  vv.addEventListener('scroll', pin, { passive: true });
   window.addEventListener('orientationchange', pin, { passive: true });
   pin();
 })();

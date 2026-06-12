@@ -880,7 +880,7 @@ h1, h2, h3, h4, h5, h6 {
 .chatbot-btn:hover { background: var(--navy); transform: scale(1.08); }
 
 @media (max-width: 767px) {
-  .chatbot-btn { bottom: calc(5.5rem + var(--vvb, 0px)); }
+  .chatbot-btn { bottom: calc(6.5rem + var(--vvb, 0px)); }
 }
 
 .chatbot-bubble {
