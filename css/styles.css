@@ -880,7 +880,7 @@ h1, h2, h3, h4, h5, h6 {
 .chatbot-btn:hover { background: var(--navy); transform: scale(1.08); }
 
 @media (max-width: 767px) {
-  .chatbot-btn { bottom: 5.5rem; }
+  .chatbot-btn { bottom: calc(5.5rem + var(--vvb, 0px)); }
 }
 
 .chatbot-bubble {
@@ -903,7 +903,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .chatbot-panel {
   position: fixed;
-  bottom: 5.5rem;
+  bottom: calc(5.5rem + var(--vvb, 0px));
   right: 1.5rem;
   width: 360px;
   max-height: 480px;
@@ -919,7 +919,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 767px) {
   .chatbot-panel {
-    bottom: 5.5rem;
+    bottom: calc(5.5rem + var(--vvb, 0px));
     right: 0.75rem;
     left: 0.75rem;
     width: auto;
@@ -987,7 +987,7 @@ h1, h2, h3, h4, h5, h6 {
   .mobile-cta {
     display: flex;
     position: fixed;
-    bottom: 0;
+    bottom: var(--vvb, 0px);
     left: 0;
     right: 0;
     z-index: 95;

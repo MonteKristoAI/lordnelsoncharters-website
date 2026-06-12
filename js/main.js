@@ -133,3 +133,20 @@ if (sections.length) {
     });
   }, { passive: true });
 }
+
+// --- iOS Safari: pin bottom-fixed UI (chatbot button/panel, mobile CTA) to the
+// visual viewport. Without this, the collapsing toolbar makes `position:fixed`
+// bottom elements drift down as you scroll. Sets --vvb = obscured bottom gap.
+(function () {
+  var vv = window.visualViewport;
+  if (!vv) return;
+  var root = document.documentElement;
+  function pin() {
+    var gap = Math.max(0, window.innerHeight - vv.height - vv.offsetTop);
+    root.style.setProperty('--vvb', gap + 'px');
+  }
+  vv.addEventListener('resize', pin, { passive: true });
+  vv.addEventListener('scroll', pin, { passive: true });
+  window.addEventListener('orientationchange', pin, { passive: true });
+  pin();
+})();
