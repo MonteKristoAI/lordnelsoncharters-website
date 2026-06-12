@@ -477,11 +477,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .rotating-wrapper {
-  display: inline-block;
+  display: block;
   position: relative;
-  height: 1.25em;
+  min-height: 1.25em; /* JS sets exact height to the tallest phrase -> no layout shift on rotate */
   overflow: hidden;
-  vertical-align: bottom;
 }
 
 .rotating-text {

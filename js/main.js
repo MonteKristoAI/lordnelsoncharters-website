@@ -66,6 +66,18 @@ document.querySelectorAll('.reveal').forEach(el => revealObserver.observe(el));
 const rotatingEl = document.getElementById('rotating-text');
 if (rotatingEl) {
   const words = JSON.parse(rotatingEl.dataset.words || '[]');
+  // Reserve the tallest phrase's height so swapping text never reflows the hero.
+  const rotWrap = rotatingEl.parentElement;
+  function reserveRotating() {
+    if (!rotWrap || !words.length) return;
+    var prev = rotatingEl.textContent, max = 0;
+    rotWrap.style.height = 'auto';
+    words.forEach(function (w) { rotatingEl.textContent = w; if (rotatingEl.scrollHeight > max) max = rotatingEl.scrollHeight; });
+    rotatingEl.textContent = prev;
+    rotWrap.style.height = max + 'px';
+  }
+  reserveRotating();
+  window.addEventListener('resize', reserveRotating, { passive: true });
   if (words.length > 1) {
     let idx = 0;
     setInterval(() => {
