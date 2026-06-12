@@ -873,7 +873,9 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: center;
   z-index: 90;
-  transition: all var(--duration) var(--ease);
+  /* Only animate hover affordances — never position. transition:all made the
+     button glide up/down as iOS reflowed the fixed `bottom` on scroll. */
+  transition: background var(--duration) var(--ease), transform var(--duration) var(--ease);
 }
 .chatbot-btn:hover { background: var(--navy); transform: scale(1.08); }
 
@@ -961,7 +963,9 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0.5rem 0.75rem;
   border: 1.5px solid var(--border);
   border-radius: var(--radius-full);
-  font-size: var(--text-sm);
+  /* 16px min so iOS Safari does not zoom the page when the field is focused
+     (on open) or tapped to type. */
+  font-size: 16px;
   font-family: 'DM Sans', sans-serif;
 }
 .chatbot-input-area button {
