@@ -896,7 +896,7 @@ h1, h2, h3, h4, h5, h6 {
   animation: hero-fade-up 0.5s var(--ease) 2s both;
 }
 @media (max-width: 767px) {
-  .chatbot-bubble { bottom: 10rem; }
+  .chatbot-bubble { display: none; }
 }
 
 .chatbot-panel {
