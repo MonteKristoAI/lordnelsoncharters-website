@@ -84,6 +84,7 @@ const HEADER = `  <header class="site-header" id="site-header">
           <li><a href="experiences.html">Experiences</a></li>
           <li><a href="pricing.html">Pricing</a></li>
           <li><a href="about.html">About</a></li>
+          <li><a href="/blog/">Blog</a></li>
           <li><a href="/sailing-charters-near-atlanta">Locations</a></li>
         </ul>
       </nav>
@@ -100,6 +101,7 @@ const HEADER = `  <header class="site-header" id="site-header">
     <a href="experiences.html">Experiences</a>
     <a href="pricing.html">Pricing</a>
     <a href="about.html">About</a>
+    <a href="/blog/">Blog</a>
     <a href="/sailing-charters-near-atlanta">Locations</a>
     <a href="index.html#booking" class="btn btn-gold" style="margin-top: 1rem;">Book Your Sail</a>
   </div>`;
@@ -121,6 +123,7 @@ const FOOTER = `  <footer class="site-footer">
             <li><a href="experiences.html">Experiences</a></li>
             <li><a href="pricing.html">Pricing</a></li>
             <li><a href="about.html">About</a></li>
+          <li><a href="/blog/">Blog</a></li>
             <li><a href="/sailing-charters-near-atlanta">Locations</a></li>
           </ul>
         </div>
