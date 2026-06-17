@@ -17,6 +17,14 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script src="https://unpkg.com/lucide@0.344.0/dist/umd/lucide.js" defer></script>
   <link rel="stylesheet" href="/css/styles.css">
+  <style>
+/* Blog pages have a light background (no dark hero), so pin the header in its solid state for legible nav */
+    .site-header{background:rgba(255,255,255,0.95);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);box-shadow:0 1px 20px rgb(11 37 69 / 0.08);}
+    .site-header .header-logo span{color:var(--navy);}
+    .site-header .nav-links a{color:var(--text-muted);}
+    .site-header .nav-links a:hover{color:var(--navy);}
+    .site-header .menu-toggle span{background:var(--navy);}
+  </style>
 </head>
 <body>
   <header class="site-header" id="site-header">
