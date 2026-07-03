@@ -1,4 +1,21 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/blog/bachelorette-party-boat-lake-lanier-planning-guide",
+      "destination": "/blog/bachelorette-party-boat-lake-lanier",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sailboat-proposal-lake-lanier-big-moment",
+      "destination": "/blog/sailboat-proposal-lake-lanier",
+      "permanent": true
+    },
+    {
+      "source": "/blog/sailing-day-trip-from-atlanta-lake-lanier",
+      "destination": "/blog/lake-lanier-day-trip-from-atlanta",
+      "permanent": true
+    }
+  ]
 }
