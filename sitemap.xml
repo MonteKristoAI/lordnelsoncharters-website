@@ -355,19 +355,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/sailing-with-kids-lake-lanier</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.lordnelsoncharters.com/blog/sailboat-proposal-lake-lanier</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/beginner-sailing-lessons-lake-lanier</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -385,25 +373,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-wildlife-sailing</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.lordnelsoncharters.com/blog/best-time-to-sail-lake-lanier-april-october</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/girls-trip-lake-lanier-boat</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-day-trip-from-atlanta</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-day-trip-from-atlanta</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/beginner-sailing-lessons-lake-lanier</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-wildlife-sailing</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -416,6 +404,12 @@
   </url>
   <url>
     <loc>https://www.lordnelsoncharters.com/blog/fall-foliage-lake-lanier-sailing-best-weeks</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lordnelsoncharters.com/blog/girls-trip-lake-lanier-boat</loc>
     <lastmod>2026-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
