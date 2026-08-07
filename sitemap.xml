@@ -403,12 +403,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/rehearsal-dinner-lake-lanier-sailboat</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.lordnelsoncharters.com/blog/what-to-pack-for-lake-lanier-sailing-charter</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -512,6 +506,12 @@
   </url>
   <url>
     <loc>https://www.lordnelsoncharters.com/blog/fourth-of-july-lake-lanier-boat-charter</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lordnelsoncharters.com/blog/rehearsal-dinner-lake-lanier-sailboat</loc>
     <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
