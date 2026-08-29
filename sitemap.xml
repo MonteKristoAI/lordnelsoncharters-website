@@ -391,6 +391,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/sunset-sailing-lake-lanier</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/girls-trip-lake-lanier-boat</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -398,12 +404,6 @@
   </url>
   <url>
     <loc>https://www.lordnelsoncharters.com/blog/fall-foliage-lake-lanier-sailing-best-weeks</loc>
-    <lastmod>2026-08-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-sailboat-team-building-private-corporate-charter-guide</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -457,7 +457,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/sunset-sailing-lake-lanier</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-sailboat-team-building-private-corporate-charter-guide</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
