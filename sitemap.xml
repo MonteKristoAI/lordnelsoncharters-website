@@ -349,6 +349,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/sunset-sailing-lake-lanier</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/byob-boat-charter-lake-lanier</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -428,12 +434,6 @@
   </url>
   <url>
     <loc>https://www.lordnelsoncharters.com/blog/anniversary-sailing-lake-lanier-private-romantic-charter</loc>
-    <lastmod>2026-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/sunset-sailing-lake-lanier</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -578,6 +578,12 @@
   </url>
   <url>
     <loc>https://www.lordnelsoncharters.com/blog/client-entertainment-lake-lanier-private-charter-business-guests</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lordnelsoncharters.com/blog/dog-friendly-boat-charter-lake-lanier</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
