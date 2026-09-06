@@ -397,6 +397,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-sailing-charter-family-guide</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/engagement-photos-sailboat-lake-lanier</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -589,12 +595,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-sailing-routes-landmarks</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.lordnelsoncharters.com/blog/sunset-sailing-charter-lake-lanier-evening</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -607,7 +607,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-sailing-charter-family-guide</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-sailing-routes-landmarks</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
