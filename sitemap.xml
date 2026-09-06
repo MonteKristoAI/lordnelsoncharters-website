@@ -511,6 +511,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/sailing-with-kids-lake-lanier</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/beginner-sailing-lessons-lake-lanier</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -583,12 +589,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/seasickness-lake-lanier-sailing</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.lordnelsoncharters.com/blog/what-to-wear-sailing-lake-lanier</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -607,7 +607,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/sailing-with-kids-lake-lanier</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/seasickness-lake-lanier-sailing</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
