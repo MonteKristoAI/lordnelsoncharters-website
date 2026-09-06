@@ -397,6 +397,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/half-day-vs-full-day-lake-lanier-sailing-charter</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/fall-foliage-lake-lanier-sailing-best-weeks</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -464,12 +470,6 @@
   </url>
   <url>
     <loc>https://www.lordnelsoncharters.com/blog/retirement-party-sailboat-lake-lanier</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/client-entertainment-lake-lanier-private-charter-business-guests</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -607,7 +607,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/half-day-vs-full-day-lake-lanier-sailing-charter</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/client-entertainment-lake-lanier-private-charter-business-guests</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
