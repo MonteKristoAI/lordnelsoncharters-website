@@ -349,25 +349,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/graduation-party-boat-lake-lanier</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.lordnelsoncharters.com/blog/best-time-to-sail-lake-lanier-april-october</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/fourth-of-july-lake-lanier-boat-charter</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/company-holiday-party-lake-lanier-sailboat</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -439,6 +421,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/what-to-wear-sailing-lake-lanier</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lordnelsoncharters.com/blog/fourth-of-july-lake-lanier-boat-charter</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-anniversary-sailing-charter-plan-perfect-day</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -446,6 +440,12 @@
   </url>
   <url>
     <loc>https://www.lordnelsoncharters.com/blog/sailboat-proposal-lake-lanier</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lordnelsoncharters.com/blog/company-holiday-party-lake-lanier-sailboat</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -607,7 +607,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/what-to-wear-sailing-lake-lanier</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/graduation-party-boat-lake-lanier</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
