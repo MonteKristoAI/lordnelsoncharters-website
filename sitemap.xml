@@ -403,6 +403,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/first-time-on-a-sailboat-what-to-expect</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/bachelor-party-boat-lake-lanier</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -458,12 +464,6 @@
   </url>
   <url>
     <loc>https://www.lordnelsoncharters.com/blog/sunset-sailing-lake-lanier</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/fourth-of-july-lake-lanier-boat-charter</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -607,7 +607,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/first-time-on-a-sailboat-what-to-expect</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/fourth-of-july-lake-lanier-boat-charter</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
