@@ -349,19 +349,13 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-from-atlanta-directions</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-facts-for-sailors</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-sailing-charter-for-beginners</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-thunderstorm-safety</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -397,12 +391,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-from-atlanta-directions</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-boating-safety</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -415,13 +403,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/wednesday-group-sail-lake-lanier</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/retirement-party-sailboat-lake-lanier</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-sailing-charter-for-beginners</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -475,6 +457,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-wildlife-sailing</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/beginner-sailing-lessons-lake-lanier</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -517,7 +505,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/wednesday-group-sail-lake-lanier</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-pirate-cruise-kids</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.lordnelsoncharters.com/blog/retirement-party-sailboat-lake-lanier</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -566,12 +566,6 @@
   </url>
   <url>
     <loc>https://www.lordnelsoncharters.com/blog/sunset-sailing-lake-lanier</loc>
-    <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-wildlife-sailing</loc>
     <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
