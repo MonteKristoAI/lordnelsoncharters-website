@@ -349,13 +349,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-family-sailing-charter</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-photography-charter</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-family-sailing-charter</loc>
+    <loc>https://www.lordnelsoncharters.com/blog/lake-lanier-sailing-routes-islands-parks-scenic-shorelines</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
